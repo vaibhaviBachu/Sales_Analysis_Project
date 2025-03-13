@@ -25,6 +25,7 @@ Data Visualization Tools (Matplotlib, Seaborn, Plotly)
 Who Can Use It?
 
 Business Owners & Managers: To monitor and improve sales performance.
+
 Data Analysts: To derive meaningful insights from sales data.
 
  Final Review
