@@ -1,4 +1,5 @@
  Project Overview
+ 
 This project consists of  sales data to reveal trends, patterns, and insights that businesses can use to make more informed decisions. Through data analytics methodologies, we better understand sales performance, customer behavior, and market trends.
 
  What This Project Does
